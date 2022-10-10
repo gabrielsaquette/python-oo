@@ -1,4 +1,4 @@
-Python orientado a objetos
+PYTHON ORIENTADO A OBJETOS
 
 <hr>
 
