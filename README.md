@@ -2,6 +2,6 @@ PYTHON ORIENTADO A OBJETOS
 
 <hr>
 
-Primeiro Projeto = uma conta bancária.
+00-inicio, python-oo = uma conta bancária.
 
 Segundo projeto = Playlist de Progrmas de Tv (Filmes e Series)
