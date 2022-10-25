@@ -4,4 +4,4 @@ PYTHON ORIENTADO A OBJETOS
 
 00-inicio, python-oo = uma conta bancária.
 
-Segundo projeto = Playlist de Progrmas de Tv (Filmes e Series)
+oo-projeto(s) = Playlist de Progrmas de Tv (Filmes e Series)
